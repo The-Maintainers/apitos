@@ -1,6 +1,3 @@
-# API Terms of Service : towards a Creative Commons model ? (APIToS)
-
-
 > How a Creative Commons model for API Terms of Service participate in the creation of open, safe and sustainable ecosystem for digital infrastructure   ?
 
 ## Project overview 
