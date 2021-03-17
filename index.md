@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 > How a Creative Commons model for API Terms of Service participate in the creation of open, safe and sustainable ecosystem for digital infrastructure   ?
 
 ## Project overview 
@@ -16,3 +17,46 @@ Our hypothesis
 - Working with the various stakeholders involved in the definition of ToS (lawyers), their implementation (developers) and their valuation (services) is key to better understand the adoption of new uses and the operationality of this model.
 
 ### We are hiring an [Intern](https://inno3.fr/actualite/internship-api-terms-service-towards-creative-commons-model) ! 
+
+
+## Open Research 
+
+### Methodology 
+
+The project will combine a first phase to define an APIToS framewok by conducting a set of interviews of API owners and stakeholders in order to prepare a legal analysis of existing API. During a second phase, we will  co-design with the API practitionner a prototype an API ToS pre-designed package. 
+
+           A one year project with 
+           Phase 1 : Pilot Phase for API ToS framework
+               Interview of API owners and stakeholders
+               Legal analysis of existing API and main issues
+           Phase 2 : Prototype API ToS pre-designed packages (co-designed)
+               Co-design with the API practitioner community
+               Stabilize the API ToS framework
+
+### An open science approach
+
+This project is included in open science principles by taking care to open up the data and research process so that it is “as open as possible” while respecting an ethical framework and the protection of participants (privacy, economic secrecy, etc.). We will ensure that we use FAIR standards and provide digital workspaces that facilitate the reproducibility of quantitative analyses (jupyter notebook, docker, etc.). Our publication will be published in open access journal or an archive (HAL, Zenodo) and will tend to publish our pre-print. and all our work will be usable in free and open source licences, in order to be accessible, editable and reproducible by other researchers. 
+
+## Support/Funding 
+
+This project is part of the 2020 Digital Infrastructure RFP supported by The Ford Foundation, Alfred P. Sloan Foundation, Open Society Foundations, Omidyar Network, and the Mozilla Open Source Support Program in collaboration with the [Open COllective Foundation](https://opencollective.com/foundation)
+
+More about the Digital Infrastructure RFP:
+
+- [2020 Digital Infrastructure Research RFP](https://fordfoundation.forms.fm/2020-digital-infrastructure-research-rfp/forms/8103)
+- [$1.3M in grants go towards making the web’s open source infrastructure more equitable](https://techcrunch.com/2021/03/03/1-3m-in-grants-go-towards-making-the-webs-open-source-infrastructure-more-equitable/)
+- [Major Philanthropies Tackle Inequality By Strengthening How Open Source Code Is Developed And Maintained)(https://www.prnewswire.com/news-releases/major-philanthropies-tackle-inequality-by-strengthening-how-open-source-code-is-developed-and-maintained-301239220.html?tc=eml_cleartime)
+- Detailed descriptions of each grant can be found in this [overview document](https://docs.google.com/document/d/1EiisqGbUEUwJMwFl1y0RMHHH8KBQBvLhasVheNlWl9I/edit)
+
+## The team
+
+### Les mainteneurs /APIDays
+Mehdi Medjaoui, is an entrepreneur, author and expert on APIs. He is the co-founder of OAuth.io, an API integration identity platform (acquired in 2017) and the founder of APIDays conferences, the main conference series on APIs , gathering a community of 200k+ API practitioners. Mehdi has been conducting research as European commission expert on APIs in the Horizon2020 program, Lead API economist for a large Software vendor and author of a book on APIs (O’Reilly 2018). Mehdi brings his knowledge on APIToS, his network, and his ability to reach lots of influential and knowledgeable API practitioners to conduct the research.
+
+### Inno3
+
+- Celya Gruson Daniel is an associate researcher in social sciences (COSTECH laboratory). Her research (STS & Communication studies) are mainly focused on open access/science issues and the impact of digital technology on science/society relations (data science, ethics, economic and social transformations). She works as a consultant (practitioner-researcher) at Inno³, a consulting company specialized in open data, open source and open science. She is the co-founder of HackYourResearch: a think tank on open science and the acknowledgement of knowledge as commons. She is using mixed method research design embedded in action-research principles but also open and collaborative processes (open source, open science, fair data, etc.) . 
+
+- Benjamin Jean is a IP lawyer on open source/ open data, and CEO of inno³, open innovation consulting firm, independent and specialized in open models (Open data, open source and so on). He is well known for all his legal work dedicated to Open Source and Open Data. He is also the cofounder of « Open Law*, Le droit ouvert », a french non-profit organization promoting activities to enhance the legal sector’s transformation through digital co-creation programs based on Open data, Open Source and Open Innovation principles. He teaches Intellectual Property law at several universities, he is lecturer at Science Po, and works at Gilles Vercken Law firm. 
+
+
