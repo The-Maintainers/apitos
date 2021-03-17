@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 > How a Creative Commons model for API Terms of Service participate in the creation of open, safe and sustainable ecosystem for digital infrastructure   ?
 
 ## Project overview 
@@ -16,5 +15,4 @@ Our hypothesis
 - The terms of service for APIs represent a boundary object whose identification of specific clauses and degree of "openness" (on the model of Creative Commons licenses with different degrees of conditions of use) can work towards a better understanding and vigilance regarding the constitution of open, secure and sustainable digital infrastructure ecosystems.  
 - Working with the various stakeholders involved in the definition of ToS (lawyers), their implementation (developers) and their valuation (services) is key to better understand the adoption of new uses and the operationality of this model.
 
-
-We are hiring an Intern ! 
+### We are hiring an [Intern](https://inno3.fr/actualite/internship-api-terms-service-towards-creative-commons-model) ! 
